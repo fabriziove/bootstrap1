@@ -1,0 +1,30 @@
+
+body{
+    background-color: #d0eaeb;
+    margin-right:6px;
+}
+.carousel-item{
+    position: relative;
+    margin-top: 88px;
+    height:400px
+}
+.accordion{
+    margin-bottom: 2px;
+}
+.imgheight{
+    height: 380px;
+}
+.dropdown-item{
+    color:aliceblue;
+
+
+}
+.form-group{
+    padding: 2px;
+    
+}
+.aboutme{
+    text-align: justify;
+    padding: 10px;
+}
+
